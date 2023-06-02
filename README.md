@@ -1,2 +1,1 @@
-# Alx-pre_course
-i'm now ALX student, this is my first repository as a full-stack egineer
+My first readme
