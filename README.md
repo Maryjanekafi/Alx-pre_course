@@ -1,1 +1,1 @@
-farmcraft will prosper
+My business is blessed
